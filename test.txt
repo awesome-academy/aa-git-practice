@@ -1,0 +1,10 @@
+- fork
+- clone
+- add remote
+- Tạo file: test.txt
+- Điền nội dung vào file
+- add/commit/push/make pull
+
+Vu Tuan Dat PR1807
+git trainning
+
