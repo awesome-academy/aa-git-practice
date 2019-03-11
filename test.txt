@@ -1,7 +1,27 @@
+     Đã xóa xương cá ^^
 - fork
 - clone
 - add remote
 - Tạo file: test.txt
 - Điền nội dung vào file
 - add/commit/push/make pull
+- fix conflict
+------------------------------------------------------------------------------
+    Đã xóa xương cá ^^
+-------------------------------------------------------------------------------
+      Chủ tịch xã bán đất nghĩa trang thu lợi tiền tỷ
 
+
+
+ Ông Cầu cùng 2 cán bộ quản lý nghĩa trang ở thị xã Điện Bàn (Quảng Nam) bán hàng
+ nghìn m2 đất cho người không thuộc diện được mua và trục lợi hơn 1,9 tỷ đồng.
+Trao đổi với Zing.vn sáng 11/3, thượng tá Hà Kế Xuyên, Phó trưởng Công an thị xã Điện Bàn (Quảng Nam), cho biết cơ quan Cảnh sát điều tra đã ra quyết định khởi tố bị can đối với ông Thân Cầu (nguyên Chủ tịch UBND phường Điện Nam Đông) về hành vi Lạm dụng chức vụ quyền hạn trong khi thi hành công vụ.
+
+Liên quan vụ việc, ông Đỗ Búp (nguyên Trưởng ban quản trang phường Điện Nam Đông) và Ngô Hải Bình (thành viên Ban quản trang phường Điện Nam Đông) cũng bị khởi tố về hành vi Lạm quyền trong khi thi hành công vụ.
+
+Theo điều tra, từ năm 2005-2015 ông Cầu đã ký giấy bán đất nghĩa trang cho 40 người không thuộc diện được mua với diện tích 4.680 m2, thu lợi hơn 1,9 tỷ đồng.
+
+Ông Bình trong thời gian làm trong Ban quản trang Điện Nam Đông đã bán đất cho 8 người với tổng diện tích trên biên lai là 763 m2, diện tích đo thực tế 906 m2, thu lợi 132 triệu đồng. Ông Búp bị cáo buộc từ năm 2013-2016 đã bán đất nghĩa trang cho 24 người, cấp đất nghĩa trang cho 6 người sai quy định.
+
+Vụ án đang được Công an thị xã Điện Bàn mở rộng, làm rõ.
+>>>>>>> add file test
