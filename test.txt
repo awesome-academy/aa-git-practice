@@ -1,3 +1,4 @@
+
 - fork
 - clone
 - add remote
@@ -5,3 +6,5 @@
 - Điền nội dung vào file
 - add/commit/push/make pull
 
+Tong Dang Tinh
+PR1807
